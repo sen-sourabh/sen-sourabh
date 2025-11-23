@@ -1,86 +1,104 @@
-# **SOURABH SEN**
-**Backend Engineer | API Integrations | Node.js | NestJS**
+💼 SOURABH SEN
 
-📞 +91 98935-64045  
-✉️ sourabhsen201313@gmail.com  
-🔗 linkedin.com/in/sourabh1996  
-🔗 github.com/sen-sourabh
+Backend Engineer | API Integrations | Node.js | NestJS
 
----
+📞 +91 98935-64045   |   ✉️ sourabhsen201313@gmail.com
+🔗 LinkedIn: linkedin.com/in/sourabh1996
+💻 GitHub: github.com/sen-sourabh
 
-# **PROFESSIONAL SUMMARY**
-Dynamic Backend & Integrations Engineer with 5+ years of experience specialising in REST API development, third‑party integrations, scalable backend systems, and secure authentication flows. Adept at designing integration platforms, optimising performance, and resolving complex API issues. Skilled in Node.js, NestJS, TypeScript, SQL/NoSQL databases, and cloud-based architectures.
+🧑‍💻 PROFESSIONAL SUMMARY
 
----
+Highly skilled Backend & Integrations Engineer with 5+ years of experience building scalable REST APIs, secure authentication flows, and enterprise-level integrations. Adept at solving complex data and API challenges while optimizing backend performance. Strong in Node.js, NestJS, TypeScript, NoSQL/SQL systems, and cloud-based services.
 
-# **CORE TECHNICAL EXPERTISE**
-### **Backend & Languages:**  
+🛠️ CORE TECHNICAL EXPERTISE
+🔹 Backend & Languages
+
 Node.js • NestJS • Express.js • TypeScript • JavaScript • PHP • Java
 
-### **API & Integrations:**  
-REST APIs • OAuth 2.0 • JWT • OpenID Connect • Webhooks • Unified API Models
+🔹 API & Integrations
 
-### **Databases:**  
+REST APIs • Webhooks • OAuth 2.0 • JWT • OpenID Connect • Unified API Models
+
+🔹 Databases
+
 PostgreSQL • MySQL • MongoDB • MSSQL
 
-### **Tools & DevOps:**  
+🔹 Tools & DevOps
+
 Postman • Git/GitHub/GitLab • Docker • Jira • Slack • TypeORM • Mongoose
 
-### **Cloud & Storage:**  
+🔹 Cloud & Storage
+
 AWS S3 • Firebase
 
-### **Testing:**  
+🔹 Testing
+
 Vitest • Jest
 
----
+🏢 PROFESSIONAL EXPERIENCE
+🔷 Senior Software Engineer — Genesis Technologies
 
-# **PROFESSIONAL EXPERIENCE**
-## **Senior Software Engineer — Genesis Technologies**  
-**Indore, India | Sep 2020 – Present**
+Indore, India | Sep 2020 – Present
 
-### **Key Contributions**
-- Integrated **50+ HRIS/ATS/CRM platforms** including Workday, Lever, SAPSF, Greenhouse, Oracle & Teamtailor into a unified integration framework.
-- Designed and deployed scalable REST APIs using **Node.js, NestJS & TypeScript**, reducing onboarding time by **40%**.
-- Implemented secure authentication flows: **OAuth 2.0, JWT** & custom token lifecycle management.
-- Enhanced backend performance, reducing API latency and improving request efficiency by **40%**.
-- Re-architected the tenant analytics dashboard achieving **80% performance gains**, **50% improved stability**, and **30% fewer network calls**.
-- Optimised SQL stored procedures, cutting execution time from **9 sec to <400ms**.
-- Diagnosed and resolved complex integration failures across multi‑system pipelines.
-- Mentored **15+ engineers** and collaborated cross‑functionally with product & QA teams.
+Key Contributions
 
----
+🔌 Integrated 50+ HRIS/ATS/CRM platforms (Workday, Lever, SAPSF, Greenhouse, Oracle, Teamtailor) into a unified integration ecosystem.
 
-## **PHP Developer — SoftGrid Computers Pvt. Ltd.**  
-**Indore | Dec 2019 – Mar 2020**
-- Designed and integrated REST APIs for high‑traffic e‑commerce mobile apps.
-- Improved MySQL queries and optimised backend response times.
+🚀 Designed scalable REST APIs with Node.js, NestJS, TypeScript, slashing integration onboarding time by 40%.
 
----
+🔐 Implemented secure auth workflows using OAuth 2.0, JWT, custom token orchestration.
 
-## **PHP Developer — Endevor IT Solutions**  
-**Indore | Dec 2018 – Nov 2019**
-- Developed backend modules using PHP, CodeIgniter & MySQL.
-- Created responsive UI components and integrated security/performance plugins.
+⚡ Optimized backend systems improving response times by 40%.
 
----
+📊 Re-architected tenant dashboard achieving 80% faster performance, 50% improved UI stability, 30% fewer network calls.
 
-# **PROJECT HIGHLIGHTS**
-## **Unified Integration Platform**  
-**NestJS • Node.js • TypeScript • 3rd‑Party APIs • Vitest**
-- Built standard API models and reusable integration services for multiple HR systems.
-- Ensured stability through automated test cases and schema validations.
+🧠 Reduced SQL execution time from 9s → <400ms using stored procedures.
 
-## **Resource Planning & Management System**  
-**Node.js • MongoDB • React/Redux • Docker**
-- Engineered backend using large‑scale MongoDB aggregations.
-- Implemented auto‑allocation algorithms and high‑density calendar rendering.
+🛠️ Led complex troubleshooting for cross-system integration issues.
 
-## **Quick Tracking Information System**  
-**Node.js • Vue.js • MySQL • AWS S3**
-- Built nested dynamic forms, S3 upload pipelines, live notifications & analytics dashboard.
+👨‍🏫 Trained & mentored 15+ junior developers.
 
----
+🔹 PHP Developer — SoftGrid Computers Pvt. Ltd.
 
-# **EDUCATION**
-**Bachelor of Engineering (Information Technology)**  
-Acropolis Institute of Technology & Research, Indore | 2014–2018
+Indore | Dec 2019 – Mar 2020
+
+Developed REST APIs for e-commerce apps using Laravel + MySQL.
+
+Improved SQL query efficiency and backend performance.
+
+🔹 PHP Developer — Endeavors IT Solutions
+
+Indore | Dec 2018 – Nov 2019
+
+Built and maintained backend modules using PHP, CodeIgniter, MySQL.
+
+Created responsive UI components and integrated performance plugins.
+
+📌 PROJECT HIGHLIGHTS
+🟦 Unified Integration Platform
+
+NestJS • Node.js • TypeScript • 3rd-Party APIs • Vitest
+
+Designed standard models for integrating HRIS/ATS systems.
+
+Built reusable modules and test automation pipelines.
+
+🟦 Resource Planning & Management System
+
+Node.js • MongoDB • React/Redux • Docker
+
+Created backend logic using large-scale MongoDB aggregations.
+
+Implemented auto-resource allocation algorithms.
+
+🟦 Quick Tracking Information System
+
+Node.js • Vue.js • MySQL • AWS S3
+
+Developed nested dynamic forms, S3 uploads, live alerts & dashboards.
+
+🎓 EDUCATION
+
+Bachelor of Engineering (Information Technology)
+Acropolis Institute of Technology & Research, Indore
+CGPA: 7.45 | 2014–2018
